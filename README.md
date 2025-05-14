@@ -3,7 +3,7 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 - 🔬 I’m a Machine Learning Researcher focusing on **visual sentiment, aesthetics, and memorability**
 - 🌍 I work with models like **ViT**, **ResNet50**, **EfficientNet**, and more
@@ -13,7 +13,7 @@
 
 ### 🚀 Tech Stack
 
-#### 🧠 Machine Learning / AI:
+#### Machine Learning / AI:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
@@ -40,9 +40,6 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samin-israk-157800141)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:saminisrak1991@gmail.com)
 
----
-
-🧠 *"In a world of zeros and ones, I find beauty in the patterns."*
