@@ -1,23 +1,31 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername" target="_blank">Md. Samin Israk</a> 👋</h1>
-<h3 align="center">Machine Learning Researcher | Full Stack Web Developer</h3>
+<h1 align="center" style="color:#00FFD1; font-family:'Fira Code', monospace; font-weight:600;">
+  👋 Hi, I'm <span style="color:#FF6EC7;">Md. Samin Israk</span>
+</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Researcher-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI%20Art%20%7C%20Web3%20%7C%20DeFi-Explorer-purple?style=for-the-badge">
+</p>
 ---
 
-###  About Me
+### 🧠 About Me
 
-- 🔬 I’m a Machine Learning Researcher focusing on **visual sentiment, aesthetics, and memorability**
-- 🌍 I work with models like **ViT**, **ResNet50**, **EfficientNet**, and more
-- 🔗 I bridge **AI with the Web** using **MERN**, **Django**, and **DeFi integrations**
+- 🔬 I research **Visual Sentiment**, **Aesthetics**, and **Memorability** through **Deep Learning**
+- 🧩 Skilled in building intelligent systems using **ViT**, **ResNet50**, **EfficientNet**
+- 💡 Creator of **MerakiNexus**: Merging AI + Art + Blockchain (DeFi)
+- 🌐 Web expert with **MERN**, **Django**, **RESTful APIs**, and **Tokenized Platforms**
+- 🎯 Always learning, always building, always solving
 
 ---
 
 ### 🚀 Tech Stack
 
-#### Machine Learning / AI:
+#### 💻 Machine Learning / AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🌐 Full Stack Development:
+#### 🌐 Web Development
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
@@ -26,20 +34,29 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samin1362&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samin1362&theme=radical" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samin1362&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samin1362&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samin1362&layout=compact&theme=tokyonight&langs_count=10"/>
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 🛠️ Tools I Use Often
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samin-israk-157800141)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:saminisrak1991@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,python,django,react,nodejs,express,mongodb,html,css,javascript,git,vscode" />
+</p>
 
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:saminisrak1991@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/samin-israk-157800141"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
