@@ -9,7 +9,7 @@
 </p>
 ---
 
-### 🧠 About Me
+###  About Me
 
 - 🔬 I research **Visual Sentiment**, **Aesthetics**, and **Memorability** through **Deep Learning**
 - 🧩 Skilled in building intelligent systems using **ViT**, **ResNet50**, **EfficientNet**
