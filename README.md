@@ -33,35 +33,38 @@ Beyond web development, I explore **Machine Learning** in areas like computer vi
 
 <div align="center">
 
-### Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap" alt="Web Development Skills"/>
-</p>
-
-### Machine Learning & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" alt="ML Skills"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
-
-### Blockchain & Web3
-
-<p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/>
-</p>
-
-### Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" alt="Tools"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="200"><strong>Web Development</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap" alt="Web Development Skills"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><strong>Machine Learning & Data Science</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" alt="ML Skills"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><strong>Blockchain & Web3</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+      <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
+      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><strong>Tools & Environment</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" alt="Tools"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
