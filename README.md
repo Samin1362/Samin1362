@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%"/>
+  <img src="./assets/banner.jpeg" alt="Banner" width="100%"/>
 </div>
 
 <h1 align="center">Md. Samin Israk</h1>
